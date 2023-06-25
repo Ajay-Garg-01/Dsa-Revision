@@ -2,6 +2,8 @@
 using namespace std;
 
 int main (){
+    // hello dera we start using Git :_)
+
     // intializing the ARRAY ;
     int arr1[3];
     // for Enter Input we can Directly give with "{}" or via "Loop" or "cin>> array[index]"";
@@ -16,5 +18,4 @@ int main (){
     cout<<endl;
     // if we pass array in function and update via its index like "arr[0]" --> then it will update the real ; due to given real address of array.
     return 0;
-
 }
